@@ -40,3 +40,11 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
 <p align="left" style="background:yellow">  
 <a href="https://www.linkedin.com/in/guilherme-mota-lima-72bbb71b7" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+<a href="https://www.instagram.com/gu1shells" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Linkedin"/>
+</a>
+<a href="https://linktr.ee/gu1shells" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkedin"/>
+</a>
+
