@@ -34,3 +34,9 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gu1shells&theme=tokyonight&show_icons=true" alt="Gu1shells stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu1shells&theme=tokyonight&show_icons=true" alt="Gu1shells most languages">
 </p>
+
+## 🤵🏻 &nbsp;Social Links
+
+<p align="left" style="background:yellow">  
+<a href="https://www.linkedin.com/in/guilherme-mota-lima-72bbb71b7" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
