@@ -26,5 +26,12 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
 ![Oracle](https://img.shields.io/badge/Oracle-red.svg?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+<br></br>
 
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gu1shells&theme=tokyonight&show_icons=true" alt="Gu1shells stats"/>
+</p>
+
+![Top_languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gu1shells)
