@@ -47,4 +47,7 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
 <a href="https://linktr.ee/gu1shells" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkedin"/>
 </a>
+<a href="https://www.youtube.com/@gu1shells" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Linkedin"/>
+</a>
 
