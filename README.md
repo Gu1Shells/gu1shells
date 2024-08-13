@@ -3,7 +3,7 @@
 src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9b0901c/raw/6abea835edaf9ad801e842978b3272d53392f193/githubcard.svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gu1shells&color=yellow" alt="Profile views" /></p>
 
-- 🔥 Java Developer & Hacking Enthusiast
+- 🔥 Java Developer & Cybersecurity Enthusiast
 
 - ▶️ Regularmente posto vídeos em [YouTube](https://www.youtube.com/@gu1shells)
 
