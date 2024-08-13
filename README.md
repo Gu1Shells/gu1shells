@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
 
 - 🔥 Java Developer & Hacking Enthusiast
 
-- ▶️ Regularmente posto vídeos em [YouTube](youtube.com/@gu1shells)
+- ▶️ Regularmente posto vídeos em [YouTube](https://www.youtube.com/@gu1shells)
 
 - 💬 Pergunte-me sobre Java, Python, Oracle, SQL, Firebird
 
