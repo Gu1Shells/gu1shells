@@ -42,12 +42,12 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 <a href="https://www.instagram.com/gu1shells" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://linktr.ee/gu1shells" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
 </a>
 <a href="https://www.youtube.com/@gu1shells" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img align="center" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
