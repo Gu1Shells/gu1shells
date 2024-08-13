@@ -32,6 +32,5 @@ src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gu1shells&theme=tokyonight&show_icons=true" alt="Gu1shells stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu1shells&theme=tokyonight&show_icons=true" alt="Gu1shells most languages">
 </p>
-
-![Top_languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gu1shells)
