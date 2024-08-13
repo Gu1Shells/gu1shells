@@ -1,5 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Me chamo Guilherme Mota</h1>
-<img align="right" height="500em" width="450px" 
+<img align="right" height="500em" width="350px" 
 src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9b0901c/raw/6abea835edaf9ad801e842978b3272d53392f193/githubcard.svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gu1shells&color=yellow" alt="Profile views" /></p>
 
