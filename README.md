@@ -3,11 +3,11 @@
 src="https://raw.githubusercontent.com/gist/Gu1Shells/3050cdd46093dc13049687cfa9b0901c/raw/6abea835edaf9ad801e842978b3272d53392f193/githubcard.svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gu1shells&color=yellow" alt="Profile views" /></p>
 
-- 🔥 Java Developer & Cybersecurity Enthusiast
+- 🔥 FullStack  & Cybersecurity Enthusiast
 
 - ▶️ Regularmente posto vídeos em [YouTube](https://www.youtube.com/@gu1shells)
 
-- 💬 Pergunte-me sobre Java, Python, Oracle, SQL, Firebird
+- 💬 Pergunte-me sobre IA, Cyber, Python, Oracle, SQL, Firebird
 
 - 👨‍💻 Mais em [LinkedIn](https://www.linkedin.com/in/guilherme-mota-lima-72bbb71b7/)
 
